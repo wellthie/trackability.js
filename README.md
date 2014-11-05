@@ -3,6 +3,8 @@ Trackability.js
 
 Track \[analytics\] events with jQuery 1.4+
 
+Do it by specifying javascript event names and metadata in your HTML. No Javascript coding required. Simply decide what to track as you go through your HTML.
+
 ## Usage
 
 ### Examples
